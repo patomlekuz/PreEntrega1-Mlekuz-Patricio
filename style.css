@@ -1,0 +1,21 @@
+*{
+    background-color: antiquewhite;
+    margin: auto;    
+    font-size: larger;
+    text-align: center;
+}
+strong{
+    font-weight: 200;
+    color: red;
+}
+div{
+    margin-top: 1.5cm;
+    
+}
+
+li{
+    list-style: none;
+}
+button{
+    background-color: coral;
+}
